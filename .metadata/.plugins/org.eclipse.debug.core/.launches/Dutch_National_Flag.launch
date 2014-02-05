@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Arrays_And_Strings/src/Dutch_National_Flag/Dutch_National_Flag.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Dutch_National_Flag.Dutch_National_Flag"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Arrays_And_Strings"/>
+</launchConfiguration>
